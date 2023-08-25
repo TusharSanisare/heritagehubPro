@@ -51,7 +51,7 @@ nav{
 
 /* Hero Section Styles */
 .hero {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.537), rgba(0, 0, 0, 0.678)), url(images/hero-background.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.537), rgba(0, 0, 0, 0.678)), url(https://www.itokri.com/cdn/shop/articles/BeFunky-collage_3.jpg?v=1670841767&width=1500);
     background-size: cover;
     background-position: center;
     text-align: center;
