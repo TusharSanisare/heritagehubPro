@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel .carousel-item{
+    background-color: black
+}
+
+.categories a{
+    color: black;
+}
+
+.nav-item .aaaa{
+    color: orange;
+}
+
+.categories a:hover{
+    color: orange;
+}
+
+.logo{
+    color: orange;
+    font-weight: 800;
+    font-size: larger;
+
+}
