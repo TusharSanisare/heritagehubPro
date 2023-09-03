@@ -1,4 +1,4 @@
-// Smooth scrolling for navigation links
+// Smooth scrolling for navigation links a
 document.querySelectorAll('.nav-links a').forEach(link => {
     link.addEventListener('click', event => {
         event.preventDefault();
